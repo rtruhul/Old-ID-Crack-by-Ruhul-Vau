@@ -84,7 +84,7 @@ def clear():
 def back():
 	login()
 
-Ruhul Vau="Ruhul Vau-"
+TALHA="Ruhul Vau-"
 imt="-Busra4786=="
 ak="Lover-"
 myid=uuid.uuid4().hex[:10].upper()
